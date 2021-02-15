@@ -1,0 +1,6 @@
+#ifndef MULTIPLES53_H_INCLUDED
+#define MULTIPLES53_H_INCLUDED
+
+int muliples53(void);
+
+#endif // MULTIPLES53_H_INCLUDED

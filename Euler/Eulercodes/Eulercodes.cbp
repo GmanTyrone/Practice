@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Eulercodes" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Eulercodes" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Eulercodes" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Multiples5and3.cpp" />
+		<Unit filename="Xprime.cpp" />
+		<Unit filename="fibonacci.cpp" />
+		<Unit filename="fibonacci.h" />
+		<Unit filename="largestpalindrome.cpp" />
+		<Unit filename="largestpalindrome.h" />
+		<Unit filename="largestproduct.cpp" />
+		<Unit filename="largestproduct.h" />
+		<Unit filename="lastprime.cpp" />
+		<Unit filename="lastprime.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="multiples5and3.h" />
+		<Unit filename="smallestmultiple.cpp" />
+		<Unit filename="smallestmultiple.h" />
+		<Unit filename="sumsquaredifference.cpp" />
+		<Unit filename="sumsquaredifference.h" />
+		<Unit filename="xprime.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

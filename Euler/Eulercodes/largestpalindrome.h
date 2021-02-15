@@ -1,0 +1,6 @@
+#ifndef LARGESTPALINDROME_H_INCLUDED
+#define LARGESTPALINDROME_H_INCLUDED
+
+long int largestpalindrome(int n);
+
+#endif // LARGESTPALINDROME_H_INCLUDED
