@@ -31,6 +31,7 @@
 		<Compiler>
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
+			<Add directory="../../boost_1_62_0" />
 		</Compiler>
 		<Unit filename="Multiples5and3.cpp" />
 		<Unit filename="Xprime.cpp" />
