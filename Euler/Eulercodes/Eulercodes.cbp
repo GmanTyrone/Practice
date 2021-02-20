@@ -13,6 +13,7 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-g" />
+					<Add directory="../../boost_1_62_0" />
 				</Compiler>
 			</Target>
 			<Target title="Release">
@@ -34,9 +35,12 @@
 			<Add directory="../../boost_1_62_0" />
 		</Compiler>
 		<Unit filename="Multiples5and3.cpp" />
+		<Unit filename="Pythagorean triplet.cpp" />
 		<Unit filename="Xprime.cpp" />
 		<Unit filename="fibonacci.cpp" />
 		<Unit filename="fibonacci.h" />
+		<Unit filename="isprime.cpp" />
+		<Unit filename="isprime.h" />
 		<Unit filename="largestpalindrome.cpp" />
 		<Unit filename="largestpalindrome.h" />
 		<Unit filename="largestproduct.cpp" />
@@ -45,8 +49,11 @@
 		<Unit filename="lastprime.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="multiples5and3.h" />
+		<Unit filename="pythagorean.h" />
 		<Unit filename="smallestmultiple.cpp" />
 		<Unit filename="smallestmultiple.h" />
+		<Unit filename="sumofprimes.cpp" />
+		<Unit filename="sumofprimes.h" />
 		<Unit filename="sumsquaredifference.cpp" />
 		<Unit filename="sumsquaredifference.h" />
 		<Unit filename="xprime.h" />
