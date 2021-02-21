@@ -41,6 +41,8 @@
 		<Unit filename="fibonacci.h" />
 		<Unit filename="isprime.cpp" />
 		<Unit filename="isprime.h" />
+		<Unit filename="largestingrid.cpp" />
+		<Unit filename="largestingrid.h" />
 		<Unit filename="largestpalindrome.cpp" />
 		<Unit filename="largestpalindrome.h" />
 		<Unit filename="largestproduct.cpp" />

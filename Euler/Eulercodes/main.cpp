@@ -9,6 +9,7 @@
 #include "largestproduct.h"
 #include "pythagorean.h"
 #include "sumofprimes.h"
+#include "largestingrid.h"
 
 
 #include <boost/multiprecision/cpp_int.hpp>
@@ -35,8 +36,9 @@ int main()
     long long int result=largestproduct();
     cout<<"largest 13 digits product is: "<<result<<endl;
     int result=pythagorean(1000);
-    cout<<"pythagorean product is: "<<result<<endl;*/
+    cout<<"pythagorean product is: "<<result<<endl;
     int1024_t result=sumprimes(2000000);
-    cout<<"sum of primes up until 2 million: "<<result<<endl;
+    cout<<"sum of primes up until 2 million: "<<result<<endl;*/
+    cout<<"largest 4 digits in grid is: "<<largestingrid()<<endl;
     return 0;
 }
