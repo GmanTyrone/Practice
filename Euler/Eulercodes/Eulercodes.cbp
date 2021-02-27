@@ -39,6 +39,8 @@
 		<Unit filename="Xprime.cpp" />
 		<Unit filename="fibonacci.cpp" />
 		<Unit filename="fibonacci.h" />
+		<Unit filename="highlytriangle.cpp" />
+		<Unit filename="highlytriangle.h" />
 		<Unit filename="isprime.cpp" />
 		<Unit filename="isprime.h" />
 		<Unit filename="largestingrid.cpp" />
@@ -47,6 +49,8 @@
 		<Unit filename="largestpalindrome.h" />
 		<Unit filename="largestproduct.cpp" />
 		<Unit filename="largestproduct.h" />
+		<Unit filename="largesum.cpp" />
+		<Unit filename="largesum.h" />
 		<Unit filename="lastprime.cpp" />
 		<Unit filename="lastprime.h" />
 		<Unit filename="main.cpp" />

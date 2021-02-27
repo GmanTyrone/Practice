@@ -3,7 +3,7 @@
 	<iostream>
 	<bits/stdc++.h>
 
-1613911408 source:d:\users\inspiron\desktop\college\practice\euler\eulercodes\main.cpp
+1614437460 source:d:\users\inspiron\desktop\college\practice\euler\eulercodes\main.cpp
 	<iostream>
 	"multiples5and3.h"
 	"fibonacci.h"
@@ -16,6 +16,8 @@
 	"pythagorean.h"
 	"sumofprimes.h"
 	"largestingrid.h"
+	"highlytriangle.h"
+	"largesum.h"
 	<boost/multiprecision/cpp_int.hpp>
 
 1612432552 d:\users\inspiron\desktop\college\practice\euler\eulercodes\multiples5and3.h
@@ -4800,4 +4802,21 @@
 1613911695 source:d:\users\inspiron\desktop\college\practice\euler\eulercodes\largestingrid.cpp
 	<iostream>
 	<bits/stdc++.h>
+
+1614436844 source:d:\users\inspiron\desktop\college\practice\euler\eulercodes\highlytriangle.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"isprime.h"
+	<boost/multiprecision/cpp_int.hpp>
+
+1614437033 d:\users\inspiron\desktop\college\practice\euler\eulercodes\highlytriangle.h
+	<boost/multiprecision/cpp_int.hpp>
+
+1614437639 source:d:\users\inspiron\desktop\college\practice\euler\eulercodes\largesum.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<boost/multiprecision/cpp_int.hpp>
+
+1614438110 d:\users\inspiron\desktop\college\practice\euler\eulercodes\largesum.h
+	<boost/multiprecision/cpp_int.hpp>
 
