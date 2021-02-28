@@ -15,6 +15,7 @@
 
 
 #include <boost/multiprecision/cpp_int.hpp>
+//#include "D:\Users\Inspiron\Desktop\College\Practice\gmp-6.2.1\longlong.h"
 using namespace std;
 using namespace boost::multiprecision;
 

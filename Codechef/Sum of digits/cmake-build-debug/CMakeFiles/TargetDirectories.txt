@@ -1,0 +1,3 @@
+D:/Users/Inspiron/Desktop/College/Practice/Codechef/Sum of digits/cmake-build-debug/CMakeFiles/Sum_of_digits.dir
+D:/Users/Inspiron/Desktop/College/Practice/Codechef/Sum of digits/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/Inspiron/Desktop/College/Practice/Codechef/Sum of digits/cmake-build-debug/CMakeFiles/rebuild_cache.dir

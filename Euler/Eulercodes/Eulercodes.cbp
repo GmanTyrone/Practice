@@ -33,6 +33,7 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 			<Add directory="../../boost_1_62_0" />
+			<Add directory="../../gmp-6.2.1" />
 		</Compiler>
 		<Unit filename="Multiples5and3.cpp" />
 		<Unit filename="Pythagorean triplet.cpp" />
