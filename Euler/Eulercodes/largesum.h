@@ -3,6 +3,6 @@
 #include <boost/multiprecision/cpp_int.hpp>
 using namespace boost::multiprecision;
 
-int1024_t largesum(void);
+unsigned long long int largesum(void);
 
 #endif // largesum_H_INCLUDED
