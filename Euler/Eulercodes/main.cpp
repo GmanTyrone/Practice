@@ -11,7 +11,6 @@
 #include "sumofprimes.h"
 #include "largestingrid.h"
 #include "highlytriangle.h"
-#include "largesum.h"
 
 
 #include <boost/multiprecision/cpp_int.hpp>
@@ -43,7 +42,5 @@ int main()
     int1024_t result=sumprimes(2000000);
     cout<<"sum of primes up until 2 million: "<<result<<endl;
     cout<<"largest 4 digits in grid is: "<<largestingrid()<<endl;*/
-    //cout<<"triangle number divisible by 500 factors is: "<<highlytriangle(500)<<endl;
-    cout<<"first 10 digits of large sum are: \n"<<largesum()<<endl;
-    return 0;
+    cout<<"triangle number divisible by 500 factors is: "<<highlytriangle(500)<<endl;
 }
