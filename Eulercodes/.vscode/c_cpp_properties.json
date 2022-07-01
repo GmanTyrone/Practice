@@ -3,7 +3,8 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "C:/Cpp_Libs/boost_1_79_0/path/to/installation/prefix/include/boost-1_79"
             ],
             "defines": [
                 "_DEBUG",
@@ -13,7 +14,13 @@
             "compilerPath": "C:\\Program Files\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin\\gcc.exe",
             "cStandard": "gnu17",
             "cppStandard": "gnu++14",
-            "intelliSenseMode": "windows-gcc-x64"
+            "intelliSenseMode": "windows-gcc-x64",
+            "browse": {
+                "path": [
+                    "C:\\Cpp_Libs\\boost_1_79_0",
+                    "D:\\Users\\Inspiron\\Desktop\\College\\Practice\\Eulercodes"
+                ]
+            }
         }
     ],
     "version": 4
